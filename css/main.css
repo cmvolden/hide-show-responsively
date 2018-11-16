@@ -101,6 +101,10 @@ img:nth-child(4) {
 
 @media only screen and (min-width: 90em) {
 
+  body {
+    text-align: center;
+  }
+
   img {
     width: 24%;
     margin: 0;
